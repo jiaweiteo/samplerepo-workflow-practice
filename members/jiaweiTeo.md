@@ -1,0 +1,12 @@
+# John Doe
+
+## Education
+
+## Work Experience
+
+* Hello world. I am Jia Wei :D 
+* ...
+
+## Accomplishments
+
+* Migrated large legacy system to a new platfrom: During my internship at PayPal, I single-handedly migrated a 20 KLoC software from platfrom X to Y. The migrated version is now live and used internally by 200+ employees.
