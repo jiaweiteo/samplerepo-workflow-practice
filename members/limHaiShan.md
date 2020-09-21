@@ -1,4 +1,4 @@
-# Hai Shan
+# Lim Hai Shan
 
 ## Education
 
