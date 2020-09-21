@@ -5,5 +5,5 @@ This is a team repo for members of the team {Team ID}
 * [Jane Doe](members/janeDoe.md)
 * [John Doe](members/johnDoe.md)
 * [Jia Wei] (members/jiaweiTeo.md)
+* [Timothy Ong](members/timothyOng.md)
 * [Lye Yi Xian](members/lyeYiXian.md)
-
